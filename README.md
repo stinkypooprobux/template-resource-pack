@@ -6,4 +6,4 @@ pack.mcmeta is the resource pack information (the version, description etc.),
 
 pack.png is the resource pack image,
 
-*change all of them however you want*
+*change all of them however you want.*
